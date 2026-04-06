@@ -1,0 +1,16 @@
+{
+  "short_name": "CofC Tech Hub",
+  "name": "CofC New Student Tech Hub",
+  "icons": [
+    {
+      "src": "icons.svg",
+      "sizes": "512x512",
+      "type": "image/svg",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#660000",
+  "background_color": "#ffffff"
+}
